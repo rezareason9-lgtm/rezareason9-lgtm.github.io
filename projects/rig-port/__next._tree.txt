@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/0d9yt2mcwy52o.css","style"]
+:HL["/_next/static/chunks/35683wgfnypzk.css","style"]
+:HL["/fonts/Vazirmatn-Regular.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/fonts/Vazirmatn-Black.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/images/hero/fallback.webp","image",{"fetchPriority":"high","media":"(min-width: 768px)"}]
+:HL["/images/hero/fallback-mobile.webp","image",{"fetchPriority":"high","media":"(max-width: 767px)"}]
+:HL["/images/projects/rig-port.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"rig-port","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"bdg8uxL0t89qt9vqaW7K1"}
