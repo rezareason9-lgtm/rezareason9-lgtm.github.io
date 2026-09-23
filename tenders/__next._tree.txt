@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/31768w9-c98qm.css","style"]
+:HL["/_next/static/chunks/35683wgfnypzk.css","style"]
+:HL["/fonts/Vazirmatn-Regular.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/fonts/Vazirmatn-Black.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+:HL["/images/hero/fallback.webp","image",{"fetchPriority":"high","media":"(min-width: 768px)"}]
+:HL["/images/hero/fallback-mobile.webp","image",{"fetchPriority":"high","media":"(max-width: 767px)"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"tenders","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"j_H3KWHf7kNK0ARXq5T8L"}
