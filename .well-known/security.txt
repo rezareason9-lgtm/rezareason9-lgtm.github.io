@@ -1,0 +1,7 @@
+# security.txt — مسیر گزارش مسائل امنیتی (RFC 9116)
+Contact: mailto:info@nskhco.ir
+Contact: tel:+982126290781
+Expires: 2027-09-19T20:00:00+03:30
+Preferred-Languages: fa, en
+Canonical: https://rezareason9-lgtm.github.io/.well-known/security.txt
+Policy: https://rezareason9-lgtm.github.io/
